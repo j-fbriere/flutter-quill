@@ -1,6 +1,7 @@
 name: flutter_quill
 description: "A rich text editor built for Android, iOS, Web, and desktop platforms. It's the WYSIWYG editor and a Quill component for Flutter."
-version: 11.6.0
+#version: 11.6.0
+version: 12.0.0
 homepage: https://github.com/singerdmx/flutter-quill/
 repository: https://github.com/singerdmx/flutter-quill/
 issue_tracker: https://github.com/singerdmx/flutter-quill/issues/
@@ -54,6 +55,8 @@ dependencies:
   flutter_keyboard_visibility_temp_fork: ^0.1.1
   quill_native_bridge: ^11.0.0
 
+  material_ui: any
+  cupertino_ui: any
 dev_dependencies:
   flutter_lints: ^5.0.0
   flutter_test:

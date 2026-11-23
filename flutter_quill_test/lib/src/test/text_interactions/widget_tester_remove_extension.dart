@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart' show TextSelection;
+import 'package:material_ui/material_ui.dart' show TextSelection;
 import 'package:flutter_test/flutter_test.dart';
 import '../widget_tester_extension.dart';
 

@@ -1,6 +1,6 @@
 import 'dart:convert' show jsonDecode;
 
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_quill/flutter_quill.dart';
 import 'package:flutter_quill/src/l10n/extensions/localizations_ext.dart';

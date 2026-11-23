@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:flutter_quill/flutter_quill.dart';
 import 'package:flutter_quill/src/editor_toolbar_shared/color.dart';
 import 'package:flutter_quill/src/toolbar/buttons/color/color_dialog.dart';
